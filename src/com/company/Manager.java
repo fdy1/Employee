@@ -13,7 +13,7 @@ public class Manager extends EmployeeFirm {
 
 
 
-        };
+        };f
 
 System.out.println(manager1.toGrade());
 System.out.println(manager1.name);
